@@ -24,10 +24,14 @@ This is a simple Snake game implemented in C++. The game runs in the terminal an
 
 4. **Compile the Project**  
    Run the following command to compile the project using g++
-   
+   ```bash
    g++ -o snake_game Project.cpp Food.cpp GameMechs.cpp MacUILib.c Player.cpp objPos.cpp objPosArrayList.cpp
+   ```
 
-5. **Run the Executable**
-  Finally, run the executable snake_game.exe
+5. **Run the Executable**  
+   Finally, run the executable:
+   ```bash
+   snake_game.exe
+   ```
    
 
